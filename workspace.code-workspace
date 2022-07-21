@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GDS_CW"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Objects-LoopsUnsolved"
+	}
+}
